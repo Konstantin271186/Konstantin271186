@@ -15,6 +15,6 @@ Moscow State University of Civil Engineering. Industrial and civil engineering. 
 Completed the course: Software testing from scratch. Theory and Practice
 
 ### Experience
-2024 - Aeroplane Group of Companies, position Head of Quality Control Department”
+2024 - "Aeroplane" Group of Companies, position Head of Quality Control Department”
 
-2022 - 2024 Aeroplane Group of Companies, position of Leading Quality Control Engineer”
+2022 - 2024 "Aeroplane" Group of Companies, position of Leading Quality Control Engineer”
