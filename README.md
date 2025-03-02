@@ -2,8 +2,6 @@
 
 ## I'm beginer QA ingeneer
 
-Latest Youtube Video
-
 ### Languages and Tools
 English - Beginer
 Russian - Native
@@ -11,13 +9,10 @@ Russian - Native
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=javascript)
 ![Konstantin](https://img.shields.io/badge/-Konstantin-black?style=for-the-badge&logo=javascript)
 
-
-
-
-Folow me
-Education: Moscow State University of Civil Engineering. Industrial and civil engineering. Degree: engineer.
+### Education
+Moscow State University of Civil Engineering. Industrial and civil engineering. Degree: engineer.
 Completed the course: Software testing from scratch. Theory and Practice
 
-Experience:
+### Experience
 2024 - Aeroplane Group of Companies, position Head of Quality Control Department”
 2022 - 2024 Aeroplane Group of Companies, position of Leading Quality Control Engineer”
