@@ -3,7 +3,7 @@
 ## I'm beginer QA ingeneer
 
 ### Languages and Tools
-English - Beginer
+English - Beginer;
 Russian - Native
 
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=javascript)
